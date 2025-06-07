@@ -1,8 +1,6 @@
 # Ping
 Web app utility to get server list data from Minecraft servers.
 
-Avalible at https://ping.turtley12.dev/app,
-
 ## Running yourself
 Before compiling and running, make sure you have Go 1.16 or higher installed.
 Then run `go run .` to run, or `go build .` to build an executable.
